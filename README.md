@@ -1,7 +1,9 @@
 # Neural-Networks-for-Handwritten-Digit-Recognition-Multiclass
 This repository contains code for building and training neural networks to recognize handwritten digits from the MNIST dataset.
 Handwritten digit recognition is a classic problem in the field of machine learning and computer vision. It involves identifying the digits present in images of handwritten characters. 
+
 Requirements
+
 To run the code in this repository, you'll need the following dependencies:
 
 Python (>= 3.6)
